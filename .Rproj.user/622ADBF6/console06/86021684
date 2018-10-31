@@ -1,0 +1,70 @@
+[0m[0K      5 [main] bash (1120) C:\Program Files\Git\usr\bin\bash.exe: *** fatal[0K[?25l
+error - cygheap base mismatch detected - 0xAFF410/0xB8F410.[0K
+This problem is probably due to using incompatible versions of the cygwin D[0KL
+L.[0K
+Search for cygwin1.dll using the Windows Start->Find/Search facility[0K
+and delete all but the most recent version.  The most recent version *shoul[0Kd
+*[0K
+reside in x:\cygwin\bin, where 'x' is the drive on which you have[0K
+installed the cygwin distribution.  Rebooting is also suggested if you[0K
+are unable to find another cygwin DLL.[0K
+[0K[?25h      5 [main] bash 4292 fork: child -1 - forked process 1120 died unexpect[0Ke[?25l
+dly, retry 0, exit code 0xC0000005, errno 11[0K
+bash: fork: retry: Resource temporarily unavailable[0K
+[0K[?25h     10 [main] bash (244) C:\Program Files\Git\usr\bin\bash.exe: *** fatal [0Ke[?25l
+rror - cygheap base mismatch detected - 0xAFF410/0xADF410.[0K
+This problem is probably due to using incompatible versions of the cygwin D[0KL
+L.[0K
+Search for cygwin1.dll using the Windows Start->Find/Search facility[0K
+and delete all but the most recent version.  The most recent version *shoul[0Kd
+*[0K
+reside in x:\cygwin\bin, where 'x' is the drive on which you have[0K
+installed the cygwin distribution.  Rebooting is also suggested if you[0K
+are unable to find another cygwin DLL.[0K
+[0K[?25h1326157 [main] bash 4292 fork: child -1 - forked process 244 died unexpecte[0Kd[?25l
+ly, retry 0, exit code 0xC0000005, errno 11[0K
+bash: fork: retry: Resource temporarily unavailable[0K
+[0K[?25h     35 [main] bash (4272) C:\Program Files\Git\usr\bin\bash.exe: *** fatal[0K[?25l
+error - cygheap base mismatch detected - 0xAFF410/0x95F410.[0K
+This problem is probably due to using incompatible versions of the cygwin D[0KL
+L.[0K
+Search for cygwin1.dll using the Windows Start->Find/Search facility[0K
+and delete all but the most recent version.  The most recent version *shoul[0Kd
+*[0K
+reside in x:\cygwin\bin, where 'x' is the drive on which you have[0K
+installed the cygwin distribution.  Rebooting is also suggested if you[0K
+are unable to find another cygwin DLL.[0K
+[0K[?25h3522852 [main] bash 4292 fork: child -1 - forked process 4272 died unexpect[0Ke[?25l
+dly, retry 0, exit code 0xC0000005, errno 11[0K
+bash: fork: retry: Resource temporarily unavailable[0K
+[0K[?25h      3 [main] bash (5288) C:\Program Files\Git\usr\bin\bash.exe: *** fatal[0K[?25l
+error - cygheap base mismatch detected - 0xAFF410/0xADF410.[0K
+This problem is probably due to using incompatible versions of the cygwin D[0KL
+L.[0K
+Search for cygwin1.dll using the Windows Start->Find/Search facility[0K
+and delete all but the most recent version.  The most recent version *shoul[0Kd
+*[0K
+reside in x:\cygwin\bin, where 'x' is the drive on which you have[0K
+installed the cygwin distribution.  Rebooting is also suggested if you[0K
+are unable to find another cygwin DLL.[0K
+[0K[?25h7888105 [main] bash 4292 fork: child -1 - forked process 5288 died unexpect[0Ke[?25l
+dly, retry 0, exit code 0xC0000005, errno 11[0K
+bash: fork: retry: Resource temporarily unavailable[0K
+[0K[?25h     39 [main] bash (2008) C:\Program Files\Git\usr\bin\bash.exe: *** fatal[0K[?25l
+error - cygheap base mismatch detected - 0xAFF410/0x8EF410.[0K
+This problem is probably due to using incompatible versions of the cygwin D[0KL
+L.[0K
+Search for cygwin1.dll using the Windows Start->Find/Search facility[0K
+and delete all but the most recent version.  The most recent version *shoul[0Kd
+*[0K
+reside in x:\cygwin\bin, where 'x' is the drive on which you have[0K
+installed the cygwin distribution.  Rebooting is also suggested if you[0K
+are unable to find another cygwin DLL.[0K
+[0K[?25h16073446 [main] bash 4292 fork: child -1 - forked process 2008 died unexpec[0Kt[?25l
+edly, retry 0, exit code 0xC0000005, errno 11[0K
+bash: fork: Resource temporarily unavailable[0K
+[0K[?25hbash-4.4$ pwd[0K[?25l
+/c/Users/EDJO/Documents/Data Wrangling[0K
+bash-4.4$ p[0K[?25hw[0Kd[0K[?25l
+/c/Users/EDJO/Documents/Data Wrangling[0K
+bash-4.4$[0K[11G[?25h

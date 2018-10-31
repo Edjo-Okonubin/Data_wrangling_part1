@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540852724503.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3488535978",
+    "id" : "622E8940",
+    "lastKnownWriteTime" : 1540900920,
+    "last_content_update" : -2147483648,
+    "path" : "~/Data Wrangling/code/final_code/working_with_columns.R",
+    "project_path" : "code/final_code/working_with_columns.R",
+    "properties" : {
+        "cursorPosition" : "80,0",
+        "scrollLine" : "69",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
